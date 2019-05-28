@@ -1,7 +1,7 @@
 ## Birdie.
 
 #### Ideia de Arquitetura.
-![teste](https://drive.google.com/open?id=1DymhBkbRj5sEYyVQhTXworuzvgip0dd6)
+![teste](https://drive.google.com/file/d/1DymhBkbRj5sEYyVQhTXworuzvgip0dd6/view?usp=sharing)
 
 ### Instruções de Execução e instalação de componentes.
 
