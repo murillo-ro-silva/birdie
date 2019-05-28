@@ -1,9 +1,12 @@
 ## Birdie.
 
+
 #### Ideia de Arquitetura.
-![teste](https://drive.google.com/file/d/1DymhBkbRj5sEYyVQhTXworuzvgip0dd6/view?usp=sharing)
+https://drive.google.com/file/d/1DymhBkbRj5sEYyVQhTXworuzvgip0dd6/view?usp=sharing
+
 
 ### Instruções de Execução e instalação de componentes.
+
 
 ##### Dockers:
 1 - Criação de tag de comunicação entre os os dockers `--net=ponte`
