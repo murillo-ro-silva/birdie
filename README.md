@@ -56,7 +56,7 @@ O resultante desse processamento encontrasse na pasta [Gdrive](https://drive.goo
 
 **3 -** A partir do pré processamento dos dados gerados em **json** e **csv**, iniciei o trabalho de analise por amostragem, e depois todos os conteudos: etapas **1 - Articles dataset** e **2 - Category dataset** em `Processamento-Wiki.ipynb`
 
-**4 -** Após trabalho de deduplicação e leitura dos dados, foi relacionado os dataset **base core(artigos)** e **category**, gerando um dataset unico em **json** que pode ser encontrado [AQUI](https://drive.google.com/open?id=1x5OTXJgNkyOsiMqAH45Bpt7105dlwpkJ).
+**4 -** Após trabalho de deduplicação e leitura dos dados, foi relacionado os dataset **base core(artigos)** e **category**, gerando um dataset unico em **json** que pode ser encontrado [Gdrive](https://drive.google.com/open?id=1x5OTXJgNkyOsiMqAH45Bpt7105dlwpkJ).
 
 **5 -** Em seguida foi realizado uma ingestão das informações geradas em json (diretório wiki_final) para o Elasticsearch, que pode ser verificado pelo notebook: etapa **ELSK** em `Processamento-Wiki.ipynb`
 
